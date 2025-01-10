@@ -6,3 +6,5 @@
 ![certificate33](https://github.com/user-attachments/assets/a39582c0-16e4-4a8f-9006-1fcb63f9ee4d)
 
 ![Offensive Security Intro - Try hack me22](https://github.com/user-attachments/assets/c11a96b0-329c-40f3-80e2-61bdbc1d905a)
+
+![Defensive Secuirty Intro - Try hack me22](https://github.com/user-attachments/assets/2bbaa5d1-af34-4887-9f3e-69755b12e87b)
