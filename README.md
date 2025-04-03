@@ -17,28 +17,6 @@
 
 - ⚡ Fun fact **When I'm bored, I dive into tech and learn about ethical hacking!**
 
-<h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
-<h1 align="center">
-  Hi 👋, I'm
-  <a href="https://github.com/akathiyanp">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=400&lines=Akathiyan;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing Animation" />
-  </a>
-</h1>
-
-<h3 align="center">A passionate full-stack developer from India</h3>
-
-<!-- Logo with adjusted size, margin, and padding -->
-<p align="center">
-  <img src="https://yourwebsite.com/new-logo.png" alt="Akathiyan Logo" width="120" height="120" style="margin: 15px; padding: 15px; background: #1e1e2e; border-radius: 12px;"/>
-</p>
-
-### About Me
-- 🔭 I’m currently working on **alphaesAI**  
-- 🌱 I’m currently learning **Ethical hacking**  
-- 📫 How to reach me: **akathiyanp256@gmail.com**  
-- ⚡ Fun fact: **When I'm bored, I dive into tech and learn about ethical hacking!**  
-
----
 
 <h3 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h3>
 
