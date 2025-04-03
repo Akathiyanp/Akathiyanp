@@ -25,16 +25,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="38" height="38" style="margin: 8px; padding: 8px; background: #1e1e2e; border-radius: 8px;"/>
   </a>
   
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="38" height="38" style="margin: 8px; padding: 8px; background: #1e1e2e; border-radius: 8px;"/>
-  </a>
+  
   
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38" style="margin: 8px; padding: 8px; background: #1e1e2e; border-radius: 8px;"/>
-  </a>
-  
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="38" height="38" style="margin: 8px; padding: 8px; background: #1e1e2e; border-radius: 8px;"/>
   </a>
   
   <a href="https://git-scm.com/" target="_blank">
