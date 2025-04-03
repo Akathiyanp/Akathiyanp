@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akathiyan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on Alphaes AI **Full stack devlopment**
+- 🔭 I’m currently working on **alphaesAI**
 
 - 🌱 I’m currently learning **Ethical hacking**
 
