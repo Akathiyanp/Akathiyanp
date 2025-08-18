@@ -9,7 +9,7 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-- 🔭 I’m currently working on **alphaesAI**
+
 
 - 📫 How to reach me **akathiyanp256@gmail.com**
 
@@ -70,3 +70,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38" style="margin: 8px; padding: 8px; background: #1e1e2e; border-radius: 8px;"/>
   </a>
 </p>
+
